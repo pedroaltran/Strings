@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+    justify-content: center;
+}
+div {
+    margin: 45vh;
+    align-items: flex-end;
+    background-color: rgb(114, 114, 114);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 1vh;
+    color: lightgoldenrodyellow;
+    width:fit-content;
+}
+
+ div h1 b{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding: 20pt;
+ }
+
+ div h2 b{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 20pt;
+}
